@@ -6,7 +6,7 @@ body {
 *,
 *:before,
 *:after {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
 
@@ -24,13 +24,3 @@ body {
   padding: 0;
   border: 0;
 }
-
-/* My Styles: */
-
-/* Exercise One: */
-footer a {
-  color: hsl(0, 100%, 100%);
-}
-
-/* Exercise Two: */
-
